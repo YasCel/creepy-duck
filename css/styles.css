@@ -1,0 +1,9 @@
+.light-dark-background {
+  background-color: black;
+  color: white;
+}
+
+.dark-light-background {
+  background-color: white;
+  color: black;
+}
